@@ -12,7 +12,7 @@ pip install requests
 Usage
 Obtain an API key from OpenWeatherMap by signing up at OpenWeatherMap.org and subscribing to their API services.
 Replace "YOUR_API_KEY" in the code with your actual API key obtained from OpenWeatherMap.
-Run the Python script weather.py.
+Run the Python script weatherapp.ipynb.
 Enter the name of the city for which you want to fetch weather data when prompted.
 Code Structure
 fetch_current_weather(city, api_key): Function to fetch current weather data for a specified city using the OpenWeatherMap API.
